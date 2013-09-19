@@ -9,7 +9,9 @@ var totalS= (salt + bPepper) // adds the salt and black pepper for total in perc
 
 var perPork= (totalS / Pork) // calculates percent.
 
-if perPork <= .5{
-
+if (perPork <= .5){
+   "Salt and Pepper are your best friends"
+} else {
+    "You only got "+totalS+" .oz better get some more"
 }
 
