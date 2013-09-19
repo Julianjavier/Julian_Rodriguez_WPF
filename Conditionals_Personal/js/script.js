@@ -4,3 +4,8 @@
 var Pork= 20  // total oz. of pork
 var salt= 9   // total oz. of salt
 var bPepper= 4 // total oz. black pepper
+
+var totalS= salt + bPepper // adds the salt and black pepper for total
+
+
+
