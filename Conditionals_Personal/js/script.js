@@ -1,6 +1,6 @@
 
 // Seasoning for Pork. (need (total seasoning) half of total oz.(Pork)
 
-var Pork= 20
-var salt= 9
-var bPepper= 4
+var Pork= 20  // total oz. of pork
+var salt= 9   // total oz. of salt
+var bPepper= 4 // total oz. black pepper
