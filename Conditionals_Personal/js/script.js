@@ -14,8 +14,8 @@ console.log (perPork)
 if (perPork >= .5){
     console.log ("Salt and Pepper are your best friends")
 }
-//If you lack seasonign it will inform you how much you need
+//If you lack seasoning it will inform you have.
 else {
-    console.log ("You only got "+totalS+".oz better get some more")
+    console.log ("You only got "+ totalS +".oz better get some more")
 }
 
