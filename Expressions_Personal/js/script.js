@@ -9,4 +9,4 @@ var head = parseInt (prompt("Head Stat?")) ;// head defence part
 
 var total= (chest+legs+arms+head); //Sets up variable to add all the defence parts.
 
-console.log  (total);
+console.log  (total); //Presents and prints results on the console.
