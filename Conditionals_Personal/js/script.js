@@ -8,7 +8,6 @@ var bPepper= 4 // total oz. black pepper
 var totalS= (salt + bPepper) // adds the salt and black pepper for total in percent
 
 var perPork= (totalS / Pork) // calculates percent.
-console.log (perPork)
 
 //If you got enough seasoning.
 if (perPork >= .5){
