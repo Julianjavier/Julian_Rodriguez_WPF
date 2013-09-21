@@ -5,7 +5,7 @@
     <ignored path="Expressions_Industry.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="8c3020dd-8a03-4daf-acff-c83d2b09d041" time="1379740351036" ignored="false" />
-    <file path="/script.js" changelist="8c3020dd-8a03-4daf-acff-c83d2b09d041" time="1379743646442" ignored="false" />
+    <file path="/script.js" changelist="8c3020dd-8a03-4daf-acff-c83d2b09d041" time="1379747377795" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +35,9 @@
         </entry>
       </file>
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/script.js">
+        <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="22" selection-start="100" selection-end="100" vertical-scroll-proportion="0.10775862">
+            <state line="8" column="77" selection-start="202" selection-end="202" vertical-scroll-proportion="0.1724138">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -57,6 +57,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/script.js" />
+        <option value="$PROJECT_DIR$/js/script.js" />
       </list>
     </option>
   </component>
@@ -119,7 +120,27 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -221,9 +242,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script.js">
+    <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="22" selection-start="100" selection-end="100" vertical-scroll-proportion="0.10775862">
+        <state line="8" column="77" selection-start="202" selection-end="202" vertical-scroll-proportion="0.1724138">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
