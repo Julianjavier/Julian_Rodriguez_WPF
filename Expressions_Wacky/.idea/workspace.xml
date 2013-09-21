@@ -5,7 +5,7 @@
     <ignored path="Expressions_Wacky.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="699bc222-4af2-4a5f-b7e7-45dcab3e14d5" time="1379771066655" ignored="false" />
-    <file path="/script.js" changelist="699bc222-4af2-4a5f-b7e7-45dcab3e14d5" time="1379771785948" ignored="false" />
+    <file path="/script.js" changelist="699bc222-4af2-4a5f-b7e7-45dcab3e14d5" time="1379772339748" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +37,10 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="28" selection-start="64" selection-end="64" vertical-scroll-proportion="0.021551725">
-              <folding />
+            <state line="9" column="107" selection-start="232" selection-end="232" vertical-scroll-proportion="0.19396552">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -124,6 +126,21 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -227,8 +244,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="28" selection-start="64" selection-end="64" vertical-scroll-proportion="0.021551725">
-          <folding />
+        <state line="9" column="107" selection-start="232" selection-end="232" vertical-scroll-proportion="0.19396552">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
