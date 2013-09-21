@@ -1,9 +1,9 @@
 //Expressions Wacky // Sep 21, 2013
 //Average DPS on Boss Defence
 
-var ATK= 12
-var bossDef= 14
-var DPS= 4
+var ATK= 12 //attack of a character
+var bossDef= 14 //defence of the boss
+var DPS= 2 //seconds it takes to start attack
 
 var mitigatedDPS= (ATK-bossDef)*DPS
 
