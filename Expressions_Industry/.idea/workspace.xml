@@ -5,7 +5,7 @@
     <ignored path="Expressions_Industry.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="8c3020dd-8a03-4daf-acff-c83d2b09d041" time="1379740351036" ignored="false" />
-    <file path="/script.js" changelist="8c3020dd-8a03-4daf-acff-c83d2b09d041" time="1379747377795" ignored="false" />
+    <file path="/script.js" changelist="8c3020dd-8a03-4daf-acff-c83d2b09d041" time="1379777243532" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +37,10 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="38" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="5" column="75" selection-start="177" selection-end="177" vertical-scroll-proportion="0.10775862">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -243,7 +245,9 @@
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="117" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -256,8 +260,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="38" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="5" column="75" selection-start="177" selection-end="177" vertical-scroll-proportion="0.10775862">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
