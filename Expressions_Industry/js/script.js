@@ -3,7 +3,9 @@
 
 var portSpace= [24, 26, 10, 30]
 
-var totalSpace= portSpace [0] + portSpace [1] + portSpace [2] portSpace [3]
+var totalSpace= portSpace [0] + portSpace [1] + portSpace [2] + portSpace [3]
+
+console. log ("You have a total of "+totalSpace+"GB available.")
 
 
 
