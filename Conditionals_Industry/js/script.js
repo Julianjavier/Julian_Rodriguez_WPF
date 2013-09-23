@@ -8,5 +8,5 @@ var maxLimit= 500;
 var totalWeight= cargoWeight+cargoContainer;
 
 if (totalWeight > maxLimit){
-   alert("Sorry you are at "+totalWeight+" tons")
-}
+   alert("Sorry you are at "+totalWeight+" tons.")
+} else {"Yes these alert boxes are very necessary."};
