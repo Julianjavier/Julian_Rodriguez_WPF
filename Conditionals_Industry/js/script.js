@@ -2,11 +2,11 @@
 
 //Cargo Container Balance.
 
-var cargoWeight= 300;
-var cargoContainer= 300;
+var cargoWeight= 200; //Variable for weight for cargo
+var cargoContainer= 200;//Variable for container weight
 var maxLimit= 500;
 var totalWeight= cargoWeight+cargoContainer;
 
 if (totalWeight > maxLimit){
    alert("Sorry you are at "+totalWeight+" tons.")
-} else {"Yes these alert boxes are very necessary."};
+} else {alert ("Yes these alert boxes are very necessary.")};
