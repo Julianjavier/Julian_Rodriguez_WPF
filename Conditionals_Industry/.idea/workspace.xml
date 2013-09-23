@@ -5,7 +5,7 @@
     <ignored path="Conditionals_Industry.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="b909dd45-8085-494a-9587-bcd3733a6faa" time="1379901013866" ignored="false" />
-    <file path="/script.js" changelist="b909dd45-8085-494a-9587-bcd3733a6faa" time="1379904828408" ignored="false" />
+    <file path="/script.js" changelist="b909dd45-8085-494a-9587-bcd3733a6faa" time="1379905653496" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="28" selection-start="369" selection-end="369" vertical-scroll-proportion="0.19396552">
+            <state line="4" column="25" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0862069">
               <folding />
             </state>
           </provider>
@@ -60,8 +60,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="14" />
-    <option name="y" value="86" />
+    <option name="x" value="53" />
+    <option name="y" value="167" />
     <option name="width" value="1439" />
     <option name="height" value="844" />
   </component>
@@ -165,7 +165,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="14" y="86" width="1439" height="844" extended-state="0" />
+    <frame x="53" y="167" width="1439" height="844" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -270,7 +270,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="28" selection-start="369" selection-end="369" vertical-scroll-proportion="0.19396552">
+        <state line="4" column="25" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0862069">
           <folding />
         </state>
       </provider>
