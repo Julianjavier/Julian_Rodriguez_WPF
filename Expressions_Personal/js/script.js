@@ -1,5 +1,5 @@
 
-//Expressions (Personal) //Sep 21, 2013
+//Expressions (Personal) //Sep 21, 2013 //Julian Rodriguez
 // RPG Defence Calculator
 
 var chest = parseInt (prompt("Chest Stat?")); //chest defence part
