@@ -1,4 +1,4 @@
-//Expressions Wacky // Sep 21, 2013
+//Expressions Wacky // Sep 21, 2013 //Julian Rodriguez
 //Average DPS on Boss Defence
 
 var ATK= 12 //attack of a character
