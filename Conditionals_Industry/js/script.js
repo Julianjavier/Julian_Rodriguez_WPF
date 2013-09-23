@@ -2,10 +2,10 @@
 
 //Cargo Container Balance.
 
-var cargoWeight= 200; //Variable for weight for cargo
-var cargoContainer= 200;//Variable for container weight
-var maxLimit= 500;
-var totalWeight= cargoWeight+cargoContainer;
+var cargoWeight= 200; //Variable for weight for cargo.
+var cargoContainer= 200; //Variable for container weight.
+var maxLimit= 500; // Maximum limit for weight.
+var totalWeight= cargoWeight+cargoContainer; //Total weight for the cargo and container.
 
 if (totalWeight > maxLimit){
    alert("Sorry you are at "+totalWeight+" tons.")
