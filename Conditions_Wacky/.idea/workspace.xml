@@ -5,7 +5,7 @@
     <ignored path="Conditions_Wacky.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="7aa2ae52-6205-4718-8bc8-6ffeffe4d1ad" time="1379987795324" ignored="false" />
-    <file path="/script.js" changelist="7aa2ae52-6205-4718-8bc8-6ffeffe4d1ad" time="1379988834535" ignored="false" />
+    <file path="/script.js" changelist="7aa2ae52-6205-4718-8bc8-6ffeffe4d1ad" time="1379992398847" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="122" selection-start="240" selection-end="240" vertical-scroll-proportion="0.1724138">
+            <state line="12" column="14" selection-start="484" selection-end="484" vertical-scroll-proportion="0.25862068">
               <folding />
             </state>
           </provider>
@@ -138,6 +138,21 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -241,7 +256,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="122" selection-start="240" selection-end="240" vertical-scroll-proportion="0.1724138">
+        <state line="12" column="14" selection-start="484" selection-end="484" vertical-scroll-proportion="0.25862068">
           <folding />
         </state>
       </provider>
