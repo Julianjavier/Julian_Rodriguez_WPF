@@ -10,5 +10,9 @@
 
 
 function ageAverege( ){      //Function to set up averege age.
+    var ages = [10, 12, 13, 9]
 
 }
+var ages = [10, 12, 13, 9]
+
+console.log (ages)
