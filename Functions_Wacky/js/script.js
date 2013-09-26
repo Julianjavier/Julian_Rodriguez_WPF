@@ -10,4 +10,10 @@
 
 function MyDPS (atk, speed, BossDef){
     var oneSecDamage = (atk*speed)/BossDef
+    return oneSecDamage
+}
+
+
+for (i=0; i< parseInt (prompt("Over how much time?")); i++){
+     console.log(MyDPS())
 }
