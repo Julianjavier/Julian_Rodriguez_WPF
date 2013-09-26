@@ -9,7 +9,8 @@
 
 function toDoList( ){ // function to encapsulate the "If" and math.random
    var roulette= Math.random()                                                       //
-   if (roulette >= 0){ "Do some laundry." }                                          //
+   var returnMessage= "" ;
+   if (roulette >= 0){ returnMessage= "Do some laundry." }                                          //
    else if (roulette >= .1){ "Do some laundry." }                                    //
    else if (roulette >= .2){ "Make some food." }                                     //
    else if (roulette >= .3){ "Cod some stuff, Yay." }                                //
@@ -22,3 +23,5 @@ function toDoList( ){ // function to encapsulate the "If" and math.random
    else if (roulette >= .9){ "Solve World Hunger" }                                  //
    return toDoList // returns the result the user.
 }
+
+console.log (toDoList())
