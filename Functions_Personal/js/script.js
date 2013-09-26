@@ -7,3 +7,8 @@
  */
 
 
+function toDoList( ){
+   var roulette= Math.random()
+   if (roulette > 0){  }
+
+}
