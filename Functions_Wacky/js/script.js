@@ -6,4 +6,8 @@
  * To change this template use File | Settings | File Templates.
  */
 
+// DPS calculator.
 
+function MyDPS (atk, speed, BossDef){
+    var oneSecDamage = (atk*speed)/BossDef
+}
