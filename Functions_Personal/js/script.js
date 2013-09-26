@@ -6,6 +6,7 @@
  * To change this template use File | Settings | File Templates.
  */
 
+ //What to do roulette!
 
 function toDoList( ){ // function to encapsulate the "If" and math.random
    var roulette= Math.random()                                                       //
