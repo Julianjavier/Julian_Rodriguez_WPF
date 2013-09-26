@@ -15,5 +15,8 @@ function MyDPS (atk, speed, BossDef){
 
 
 for (i=0; i< parseInt (prompt("Over how much time?")); i++){
-     console.log (MyDPS(prompt("Your attack?"), prompt("Your Speed"), parseInt (prompt ("Boss Defense?"))));
+     console.log (MyDPS(parseInt (prompt("Your attack?")),
+                        parseInt (prompt("Your Speed")),
+                        parseInt (prompt("Boss Defense?"))
+                        ));
 }
