@@ -8,9 +8,9 @@
 
 //Functions Industry
 
-   var weight1= 12;//
-   var weight2= 11;// weight values
-   var weight3= 10;//
+   var weight1= prompt (parseInt("First Weight")); //
+   var weight2= prompt (parseInt("Second Weight"));// weight values
+   var weight3= prompt (parseInt("Third Weight")); //
 
     function weightAvr( ){      //Function to set up averege weight.
    var totalWeight= weight1+weight2+weight3; //variables for total
