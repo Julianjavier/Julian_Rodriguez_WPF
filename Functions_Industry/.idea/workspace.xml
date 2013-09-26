@@ -4,7 +4,7 @@
     <list default="true" id="61083fa2-5aa4-4219-82d5-5899e306a69d" name="Default" comment="" />
     <ignored path="Functions_Industry.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/script.js" changelist="61083fa2-5aa4-4219-82d5-5899e306a69d" time="1380152597379" ignored="false" />
+    <file path="/script.js" changelist="61083fa2-5aa4-4219-82d5-5899e306a69d" time="1380159325315" ignored="false" />
     <file path="/index.html" changelist="61083fa2-5aa4-4219-82d5-5899e306a69d" time="1380152691415" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="32" selection-start="82" selection-end="82" vertical-scroll-proportion="0.08928572">
+            <state line="9" column="1" selection-start="117" selection-end="117" vertical-scroll-proportion="-5.625">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="13" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0">
+            <state line="10" column="19" selection-start="210" selection-end="210" vertical-scroll-proportion="0.21551724">
               <folding />
             </state>
           </provider>
@@ -55,6 +55,7 @@
       <list>
         <option value="$PROJECT_DIR$/script.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/script.js" />
       </list>
     </option>
   </component>
@@ -137,6 +138,21 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -231,16 +247,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/script.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="13" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0">
+        <state line="9" column="1" selection-start="117" selection-end="117" vertical-scroll-proportion="-5.625">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="32" selection-start="82" selection-end="82" vertical-scroll-proportion="0.08928572">
+        <state line="10" column="19" selection-start="210" selection-end="210" vertical-scroll-proportion="0.21551724">
           <folding />
         </state>
       </provider>

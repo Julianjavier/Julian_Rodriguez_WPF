@@ -8,11 +8,12 @@
 
 //Functions Industry
 
+   var weight1= 12;
+   var weight2= 11;
+   var weight3= 10;
 
-function ageAverege( ){      //Function to set up averege age.
-    var ages = [10, 12, 13, 9]
-
+    function weightAvr( ){      //Function to set up averege weight.
+   var totalWeight= weight1+weight2+weight3;
 }
-var ages = [10, 12, 13, 9]
 
-console.log (ages)
+console.log
