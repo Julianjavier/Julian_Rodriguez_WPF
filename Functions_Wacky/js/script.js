@@ -8,15 +8,15 @@
 
 // DPS calculator.
 
-function MyDPS (atk, speed, BossDef){
-    var oneSecDamage = (atk*speed)/BossDef
-    return oneSecDamage
+function MyDPS (atk, speed, BossDef){        //Function to enclose a given problem.
+    var oneSecDamage = (atk*speed)/BossDef   //variable to equate the parameters.
+    return oneSecDamage                      //Returns the final result.
 }
 
 
-for (i=0; i< parseInt (prompt("Over how much time?")); i++){
-     console.log (MyDPS(parseInt (prompt("Your attack?")),
-                        parseInt (prompt("Your Speed")),
-                        parseInt (prompt("Boss Defense?"))
-                        ));
-}
+for (i=0; i< parseInt (prompt("Over what time?")); i++){    //
+     console.log (MyDPS(parseInt (prompt("Your attack?")),      //
+                        parseInt (prompt("Your Speed")),        //
+                        parseInt (prompt("Boss Defense?"))      // Loop to repeat the function a number of times.
+                        ));                                     //
+}                                                               //
