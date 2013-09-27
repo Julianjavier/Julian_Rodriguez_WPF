@@ -13,8 +13,8 @@ function MyDPS (atk, speed, BossDef){        //Function to enclose a given probl
     return oneSecDamage                      //Returns the final result.
 }
 
-
-for (i=0; i< parseInt (prompt("Over what time?")); i++){    //
+var loopcount= parseInt (prompt("Over what time?"))
+for (i=0; i< loopcount; i++){    //
      console.log (MyDPS(parseInt (prompt("Your attack?")),      //
                         parseInt (prompt("Your Speed")),        //
                         parseInt (prompt("Boss Defense?"))      // Loop to repeat the function a number of times.
